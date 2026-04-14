@@ -221,7 +221,7 @@ Plugins are a **delivery mechanism**, not a runtime. A plugin doesn't run tools 
 
 In practice, all three layers work together. Here's how they compose in a real scenario:
 
-### Example: Building a Power BI Report
+### Example: Building a Fabric/Power BI Report
 
 ```
 User: "Create a sales dashboard from my Fabric semantic model"
