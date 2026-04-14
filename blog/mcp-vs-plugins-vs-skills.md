@@ -205,7 +205,7 @@ Install a plugin, and your agent gains:
 
 | Strength | Example |
 |----------|---------|
-| **Distribution** | `copilot plugin Fabric-power-bi-agentic-development` |
+| **Distribution** | `copilot plugin skills-for-fabric` |
 | **Bundling** | One install gives you 6 sub-plugins, each with skills, agents, and hooks |
 | **Versioning** | Plugin marketplace tracks versions, changelogs, auto-updates |
 | **Community** | Anyone can publish a plugin to a marketplace |
@@ -282,7 +282,7 @@ User: "Create a sales dashboard from my Fabric semantic model"
 | **Requires code?** | Yes (server implementation) | No (files only) | No (Markdown only) |
 | **Who builds them** | Platform engineers | Domain experts + devs | Anyone with expertise |
 | **Cross-agent?** | ✅ Universal (MCP standard) | ⚠️ Agent-specific packaging | ⚠️ Format varies |
-| **Examples** | GitHub MCP, Postgres MCP | skills-for-fabric, data-goblin | Power-BI-Visuals, pbir-format |
+| **Examples** | GitHub MCP, Postgres MCP | skills-for-fabric | Power-BI-Visuals, pbir-format |
 
 ---
 
