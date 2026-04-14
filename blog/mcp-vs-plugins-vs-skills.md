@@ -172,7 +172,7 @@ Plugins are installable packages that bundle skills, sub-agents, hooks, MCP serv
 A plugin is a directory with a manifest file (`plugin.json` or `package.json`) and a structured collection of files:
 
 ```
-power-bi-agentic-development/
+Fabric-power-bi-agentic-development/
 ├── .claude-plugin/
 │   └── plugin.json          # Manifest: name, version, description
 ├── plugins/
