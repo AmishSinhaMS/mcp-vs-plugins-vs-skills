@@ -205,7 +205,7 @@ Install a plugin, and your agent gains:
 
 | Strength | Example |
 |----------|---------|
-| **Distribution** | `copilot plugin install data-goblin/power-bi-agentic-development` |
+| **Distribution** | `copilot plugin Fabric-power-bi-agentic-development` |
 | **Bundling** | One install gives you 6 sub-plugins, each with skills, agents, and hooks |
 | **Versioning** | Plugin marketplace tracks versions, changelogs, auto-updates |
 | **Community** | Anyone can publish a plugin to a marketplace |
