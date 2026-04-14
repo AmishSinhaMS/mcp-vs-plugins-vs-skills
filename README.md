@@ -96,7 +96,6 @@ These are not interchangeable. Each solves a different layer of the agent extens
 | Marketplace | Focus | Installable Plugins |
 |-------------|-------|-------------------|
 | [skills-for-fabric](https://github.com/microsoft/skills-for-fabric) | Microsoft Fabric | 30+ skills across 12 domains |
-| [power-bi-agentic-development](https://github.com/data-goblin/power-bi-agentic-development) | Power BI | 6 plugins (reports, PBIP, semantic models, Tabular Editor) |
 | [databricks-agent-skills](https://github.com/databricks/databricks-agent-skills) | Databricks | 7 skills |
 
 ### Skill Examples
