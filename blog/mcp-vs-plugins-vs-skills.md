@@ -1,4 +1,4 @@
-# MCP vs Plugins vs Skills for AI agents: The Path to Native Agentic Development
+# MCP vs Plugins vs Skills for AI agents: The Path to Native AI Agentic Development
 
 *Understanding the three extensibility models that power modern AI agents — April 2026*
 
