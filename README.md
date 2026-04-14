@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">MCP vs Plugins vs AI agent Skills:<br>The Path to Native AI Agentic Development</h1>
+  <h1 align="center">MCP vs Plugins vs AI agent skills:<br>The Path to Native AI Agentic Development</h1>
 </p>
 
 <p align="center">
