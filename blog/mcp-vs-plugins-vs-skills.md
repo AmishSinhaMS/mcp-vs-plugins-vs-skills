@@ -419,6 +419,6 @@ The path to native agentic development isn't choosing between these models — i
 
 ---
 
-*This post was written with GitHub Copilot CLI, powered by Claude Opus 4.6 — an agent that runs on all three extensibility layers simultaneously.*
+*All guides are written from personal experience and may need adjustments for your specific environment.*
 
 *Last updated: April 2026*
