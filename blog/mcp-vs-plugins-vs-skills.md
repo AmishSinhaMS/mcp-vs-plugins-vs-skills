@@ -228,7 +228,7 @@ User: "Create a sales dashboard from my Fabric semantic model"
 
 ┌─────────────────────────────────────────────────────────────┐
 │  PLUGIN (installed at setup time)                           │
-│  power-bi-agentic-development                               │
+│  Fabric-power-bi-agentic-development                               │
 │                                                             │
 │  Provides:                                                  │
 │  ├── SKILL: pbir-format                                     │
@@ -245,7 +245,7 @@ User: "Create a sales dashboard from my Fabric semantic model"
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
 │  SKILL (active during this task)                            │
-│  Power-BI-Visuals + pbir-format                             │
+│  Fabric-Power-BI-Visuals + pbir-format                             │
 │                                                             │
 │  Agent now KNOWS:                                           │
 │  • 32 visual types and their bind options                   │
