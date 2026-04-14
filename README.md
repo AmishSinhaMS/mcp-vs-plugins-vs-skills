@@ -123,5 +123,5 @@ The agent extensibility landscape evolves fast. Contributions, corrections, and 
 ---
 
 <p align="center">
-  <em>Written with GitHub Copilot CLI (Claude Opus 4.6) — an agent that uses all three extensibility models.</em>
+  <em>All guides are written from personal experience and may need adjustments for your specific environment.</em>
 </p>
